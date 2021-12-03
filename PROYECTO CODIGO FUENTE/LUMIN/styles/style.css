@@ -1,0 +1,96 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.fondoGris{
+    background-color: #F8F9FA;
+}
+
+.fondoMorado{
+    background-color: #4F4293 !important;
+}
+
+.morado{
+    color: #4F4293 !important; 
+}
+
+.input{
+    font-size: 1.4rem;
+}
+
+.luz{
+    box-shadow: 0px -4px 0px 0px #FFFFFF, 0px 4px 4px 0px rgba(0,0,0,0.36);
+}
+
+a{
+    text-decoration: none;
+}
+
+.pantalla{
+    height: 100vh;
+}
+
+.bottomNav{
+    border-radius: 25px 25px 0px 0px;
+}
+
+.sidebar{
+    border-radius: 0px 15px 15px 0px;
+}
+
+@media (min-width: 600px) {
+    .h1{
+        font-size:x-large;
+    }
+}
+
+.icon-link {
+    color: white;
+}
+/* ----------------- */
+
+.icon-link.active {
+    color: #FFC107;
+}
+
+.btn-morado {
+    background-color: #4F4293 !important;
+}
+
+.btn-float {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:3em;
+    height: 3em;
+    bottom: 2em;
+    right: 2em;
+    background-color: #FFC107; 
+    color:white; border-radius: 50%;
+}
+
+.card .desc {
+    height: 0;
+    overflow: hidden;
+    transition: all .4s ease-in-out;    
+}
+
+.card:hover .desc {
+    /* height: 150px; */
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    /* transition: .5 ease-in-out; */
+}
+
+.card .desc .description {
+    opacity: 0;
+    font-size: 12px;
+    transition: all .4s ease;
+}
+
+.card:hover .desc .description {
+    opacity: 1;
+}
+
