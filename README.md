@@ -1,7 +1,7 @@
 # PROYECTO-APLICACIONES-WEB-OTO2021-EQUIPO3
 Documentación, minutas de reunión, código fuente y formato springer del proyecto de la asignatura para los fines que al docente evaluador convengan.
 
-CRÉDITOS A:
+CRÉDITOS Y AGRADECIMIENTOS A LOS CREADORES DE ESTE PROYECTO:
 1. Ángel Isidro López Cadena 201655344
 2. Carlos Renato Hernandez Bravo 201641765
 3. Edgar Castro Martínez 201748214
